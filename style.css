@@ -1,0 +1,48 @@
+body {
+  color: #201e1e;
+  font-family: 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
+  margin: 10em auto;
+  width: 70%;
+}
+.container {
+  padding-left: 1em;
+  padding-right: 1em;
+  font-weight: 500;
+}
+label {
+  display: block;
+  font-weight: 600;
+  color: #2d323d;
+}
+.error {
+  margin-left: 1em;
+  color: rgb(226, 81, 71);
+
+}
+.warning {
+  color: rgb(223, 119, 33);
+  font-weight: 600;
+}
+.button {
+  display: inline-block;
+  margin-top: 1.5em;
+  border-radius: 5px;
+  padding: .5em;
+  text-decoration: none;
+}
+#logout {
+  margin-left: 20em;
+}
+
+.blue{
+  background-color: rgb(46, 90, 173);
+  color: white;
+}
+.red{
+  background-color: rgb(209, 57, 57);
+  color: white;
+}
+.green{
+  background-color: rgb(37, 161, 89);
+  color: white;
+}
